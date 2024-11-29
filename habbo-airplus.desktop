@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Habbo Client
+Exec=/usr/bin/habbo-airplus/Habbo
+GenericName=An Enhanced Habbo AIR Client
+Icon=/usr/bin/habbo-airplus/icon256.png
+Name=Habbo AirPlus
+StartupNotify=true
+Terminal=false
+Type=Application
